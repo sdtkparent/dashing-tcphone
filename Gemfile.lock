@@ -86,3 +86,4 @@ PLATFORMS
 
 DEPENDENCIES
   dashing
+  twitter (>= 5.9.0)
